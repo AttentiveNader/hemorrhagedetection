@@ -4,3 +4,5 @@ this code is about using basic cnns with keras ontop of tensorflow to predict if
 * you can find the dataset  here on 
 https://www.kaggle.com/simeondee/brain-tumor-images-dataset
 
+ and there is a plain tensorflow version also 
+
